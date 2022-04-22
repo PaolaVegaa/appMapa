@@ -63,6 +63,10 @@
                         <li class="nav-item">
                             <a class="nav-link" href="RegistrarTipo.aspx">Registrar Tipos</a>
                         </li>
+                        
+                        <li class="nav-item">
+                            <a class="nav-link" href="">Sandra</a>
+                        </li>
 
                     </ul>
 
