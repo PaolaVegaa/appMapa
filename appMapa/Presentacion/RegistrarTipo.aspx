@@ -39,7 +39,7 @@
 
 
         <asp:GridView ID="gvTipo" runat="server" CssClass="table"></asp:GridView>
-
+        <asp:Button ID="btnPrueba" runat="server" Text="Prueba" />
     </div>
 
 </asp:Content>
